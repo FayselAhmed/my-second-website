@@ -2,3 +2,4 @@
 # changing some text
 # kaje no faki
 # Party
+# Add picture
